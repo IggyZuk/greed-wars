@@ -1,5 +1,8 @@
-Source code from the Ludum Dare game Greed Wars.
-Wrote this in 3 days, some parts of the code were a bit rushed, but the core of the game structure is pretty nicely done.
+Made in 3 days for Ludum Dare 23, some parts of the code were a bit rushed, but the core of the game structure is pretty nice.
+Keep in mind the game was done in Flash IDE; all graphics and sounds are in it, this is only the code.
 
-Keep in mind the game was done in Flash IDE; all graphics and sounds are in it (I'm only sharing the code atm).
-And I've also used greensock library for some GUI elements.
+Game at: http://www.iggyzuk.com/stuff/games/greedwars/
+
+![Alt text](/greed-wars-preview-01.png?raw=true "Preview 1")
+![Alt text](/greed-wars-preview-02.png?raw=true "Preview 1")
+![Alt text](/greed-wars-preview-03.png?raw=true "Preview 1")
